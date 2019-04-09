@@ -1,1 +1,20 @@
-style.css
+input[type=submit] {
+  color: #FC0882;
+  background-color: #2020E0;
+  padding: 12px 33px;
+  margin: 5px 11px;
+  border-radius: 50px;
+  font-size: 1.3rem;
+  cursor: pointer;
+  text-align: center;
+
+}
+p {
+  font-size: 1.6rem;
+  margin: 17px 12px;
+}
+input[type=text] {
+  padding: 12px;
+  margin-left: .7%;
+  font-size: 1.2rem;
+}
